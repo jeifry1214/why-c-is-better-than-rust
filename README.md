@@ -6,6 +6,7 @@
 ![Performance](https://img.shields.io/badge/Performance-Slower%20Than%20C++-lightgrey)
 
 *“If it compiles, it’s probably undefined behavior, but hey, that’s my undefined behavior.”*
+> Revolutionizing systems programming and bridging the gap between Rust’s safety and C++’s self-confidence by removing unnecessary features one language at a time.
 
 
 
