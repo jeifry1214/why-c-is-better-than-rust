@@ -25,6 +25,14 @@ and the sacred systems-programming rituals **personally taught to me by Linus To
 **In short:**  
 I wrote C++ in Rust. **It compiled. Rust lost.** Go learn C++ and be a real nerd.
 
+## Running the Application
+Use the "Run Application" workflow or execute:
+```
+cargo run
+```
+
+**Note:** Run in debug mode (default `cargo run`) to see the output. Release mode (`cargo run --release`) triggers undefined behavior and crashes immediately.
+
 
 
 ## **The Philosophy**
